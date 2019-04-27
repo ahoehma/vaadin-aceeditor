@@ -64,7 +64,7 @@
     <dependency>
       <groupId>org.vaadin.addons</groupId>
       <artifactId>aceeditor</artifactId>
-      <version>${version}</version>
+      <version>${project.version}</version>
     </dependency>
 
   </dependencies>
