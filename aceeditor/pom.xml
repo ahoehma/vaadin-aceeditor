@@ -22,6 +22,11 @@
     </repository>
   </repositories>
 
+  <scm>
+   <connection>scm:git:https://github.com/ahoehma/vaadin-aceeditor.git</connection>
+   <url>https://github.com/ahoehma/vaadin-aceeditor</url>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>com.vaadin</groupId>
