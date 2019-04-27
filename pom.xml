@@ -4,7 +4,7 @@
 
   <groupId>org.vaadin.addons</groupId>
   <artifactId>aceeditor-parent</artifactId>
-  <version>0.8.14.1-SNAPSHOT</version>
+  <version>0.8.14.1</version>
   <packaging>pom</packaging>
 
   <name>Vaadin AceEditor Parent Project</name>
@@ -13,6 +13,7 @@
   <scm>
    <connection>scm:git:https://github.com/ahoehma/vaadin-aceeditor.git</connection>
    <url>https://github.com/ahoehma/vaadin-aceeditor</url>
+    <tag>aceeditor-parent-0.8.14.1</tag>
   </scm>
 
   <modules>
